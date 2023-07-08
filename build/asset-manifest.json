@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "./static/css/main.5a18b3a7.css",
+    "main.css": "./static/css/main.6229efbc.css",
     "main.js": "./static/js/main.995afaa0.js",
-    "static/media/bg@2x.png": "./static/media/bg@2x.b23d48f2e17f0ebd4d42.png",
-    "static/media/icon_sun.svg": "./static/media/icon_sun.ab45bd1abea4a81765bb.svg",
-    "static/media/arrow-down.svg": "./static/media/arrow-down.d655218a2b02d5911247.svg",
-    "static/media/icon_sun_2.svg": "./static/media/icon_sun_2.f1c80687f8b99c25c4c9.svg",
-    "static/media/cloud-drizzle.svg": "./static/media/cloud-drizzle.96d177798e471cc2c056.svg",
-    "static/media/icon_temperature.svg": "./static/media/icon_temperature.0d19e216b2d5b7971f85.svg",
-    "static/media/icon_temperature_2.svg": "./static/media/icon_temperature_2.b61801258e48a97351d6.svg",
-    "static/media/logo.svg": "./static/media/logo.fbf3825fdaeb5d79fbbe.svg",
-    "static/media/icon_list_m@1x.svg": "./static/media/icon_list_m@1x.2c481f94300218fcebd0.svg",
-    "static/media/icon_scheduled.svg": "./static/media/icon_scheduled.71bbb008775a1c81db81.svg",
+    "static/media/bg@2x.png": "./static/media/bg@2x.c576814fa53790121a74.png",
+    "static/media/logo.svg": "./static/media/logo.67c159bc892217e8dd0a.svg",
     "index.html": "./index.html",
-    "main.5a18b3a7.css.map": "./static/css/main.5a18b3a7.css.map",
+    "static/media/arrow-down.svg": "./static/media/arrow-down.31613f17c6c256d625be.svg",
+    "static/media/icon_list_m@1x.svg": "./static/media/icon_list_m@1x.c3dbee13bc071d11e488.svg",
+    "static/media/icon_sun.svg": "./static/media/icon_sun.c7d1724796f2ce6c3e02.svg",
+    "static/media/icon_sun_2.svg": "./static/media/icon_sun_2.a4dd908b57fffc115065.svg",
+    "static/media/icon_temperature.svg": "./static/media/icon_temperature.c78f7cc01371702111a8.svg",
+    "static/media/icon_temperature_2.svg": "./static/media/icon_temperature_2.613c30ce95270c287499.svg",
+    "static/media/icon_scheduled.svg": "./static/media/icon_scheduled.db4e109ccce3dbfb16a9.svg",
+    "static/media/cloud-drizzle.svg": "./static/media/cloud-drizzle.ee4872335d4ab135d31a.svg",
+    "main.6229efbc.css.map": "./static/css/main.6229efbc.css.map",
     "main.995afaa0.js.map": "./static/js/main.995afaa0.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a18b3a7.css",
+    "static/css/main.6229efbc.css",
     "static/js/main.995afaa0.js"
   ]
 }
