@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shri2023-task/build/static/css/main.9aa2ad05.css",
-    "main.js": "/shri2023-task/build/static/js/main.280796aa.js",
+    "main.js": "/shri2023-task/build/static/js/main.831e555c.js",
     "static/media/bg@2x.png": "/shri2023-task/build/static/media/bg@2x.b23d48f2e17f0ebd4d42.png",
     "static/media/icon_sun.svg": "/shri2023-task/build/static/media/icon_sun.ab45bd1abea4a81765bb.svg",
     "static/media/arrow-down.svg": "/shri2023-task/build/static/media/arrow-down.d655218a2b02d5911247.svg",
@@ -14,10 +14,10 @@
     "static/media/icon_scheduled.svg": "/shri2023-task/build/static/media/icon_scheduled.71bbb008775a1c81db81.svg",
     "index.html": "/shri2023-task/build/index.html",
     "main.9aa2ad05.css.map": "/shri2023-task/build/static/css/main.9aa2ad05.css.map",
-    "main.280796aa.js.map": "/shri2023-task/build/static/js/main.280796aa.js.map"
+    "main.831e555c.js.map": "/shri2023-task/build/static/js/main.831e555c.js.map"
   },
   "entrypoints": [
     "static/css/main.9aa2ad05.css",
-    "static/js/main.280796aa.js"
+    "static/js/main.831e555c.js"
   ]
 }
